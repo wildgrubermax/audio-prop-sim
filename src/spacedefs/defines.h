@@ -1,0 +1,7 @@
+#ifndef DEFINES_H
+#define DEFINES_H
+
+#define UNIN_DEFAULT_STRING "UNINITIALIZED NAME"
+#define SPEED_OF_SOUND 343.0f
+
+#endif
